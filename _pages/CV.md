@@ -10,7 +10,7 @@ horizontal: false
 ---
 
 <object data="../assets/pdf/Curriculum_Vitae.pdf" type="application/pdf" width="100%" height="500">
-    <p>Alternative text - include a link <a href="myfile.pdf">to the PDF!</a></p>
+    <p>Alternative text - include a link <a href="../assets/pdf/Curriculum_Vitae.pdf">to the PDF!</a></p>
 </object>
 
 
